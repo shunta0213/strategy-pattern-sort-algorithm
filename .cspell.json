@@ -1,6 +1,7 @@
 {
     "words": [
         "cspell",
+        "pygame",
         "virtualenvs"
     ]
 }
